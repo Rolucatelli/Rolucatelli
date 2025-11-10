@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Luís Gasparino Lucatelli</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 <p>
-  - 📍 Systems Development Technician
   - 📍 Computer Science student at UNIFAL-MG, 6th period 
-
-  - 📫 How to reach me: rodrigo.lucatelli@sou.unifal-ng.edu.br
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
